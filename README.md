@@ -1,9 +1,9 @@
 喜歡的Python 禪學
 
-1. Special cases aren't special enough to break the rules.
+1. Special cases aren't special enough to break the rules.\
 在課程中或是未來實際應用上，我們都可能遇到由長篇敘述、複雜結構和多種限制交織而成的特殊題目，而這些題目之所以特殊，正是因為它被基礎規則層層包裝。因此無論是學習哪一門課程，都需穩固基礎，而非一昧追求華麗抑或迅速的解法，許多時候我們只須回到最初所學，運用基礎知識一步步解開題目，遵循規則。
 
-2. Errors should never pass silently.
+2. Errors should never pass silently.\
 任何錯誤都有其原因，這些原因或大或小都須被改正，若選擇忽視錯誤，不嘗試找出並解決錯誤原因，我們將止步不前，無法更進一步的學習。因此，我喜歡這句python禪學所告訴我們的道理。
 
 3. If the implementation is easy to explain, it may be a good idea.\
